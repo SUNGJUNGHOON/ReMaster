@@ -14,6 +14,6 @@ public class Racing {
 
         public static void menu() {
             Scanner scanner = new Scanner(System.in);
-            System.out.println("");
+            System.out.println("1234");
         }
     }
