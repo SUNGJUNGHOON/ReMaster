@@ -19,8 +19,6 @@ public class Racing2023 {
             for (int j = 0; j < tryCount; j++) {
                 if(random.nextInt(10) >= 4) { // 랜덤 4이상일경우 출력하게끔 셋팅
                     System.out.print("-");
-
-
                 }
             }
             System.out.println();
